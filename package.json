@@ -1,0 +1,39 @@
+{
+  "name": "sam-social-media-dashboard-dark-light-loggle",
+  "version": "1.0.0",
+  "description": "![Design preview for the Social media dashboard with theme switcher coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "autoprefixer": "^10.3.3",
+    "browser-sync": "^2.27.5",
+    "cssnano": "^5.0.8",
+    "dart-sass": "^1.25.0",
+    "g": "^2.0.1",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.3.0",
+    "gulp-postcss": "^9.0.1",
+    "gulp-terser": "^2.0.1",
+    "postcss": "^8.3.6"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.39.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sam",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambara323/sam-social-media-dashboard-dark-light-toggle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sambara323/sam-social-media-dashboard-dark-light-toggle/issues"
+  },
+  "homepage": "https://github.com/sambara323/sam-social-media-dashboard-dark-light-toggle#readme"
+}
